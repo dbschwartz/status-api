@@ -1,0 +1,22 @@
+{
+  "name": "status-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbschwartz/status-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbschwartz/status-api/issues"
+  },
+  "homepage": "https://github.com/dbschwartz/status-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
